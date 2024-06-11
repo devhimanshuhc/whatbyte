@@ -12,7 +12,7 @@ const Navbar = (props: Props) => {
         <div className="max-w-screen-2xl flex flex-wrap items-center justify-between mx-auto p-4 pb-8">
           <div className="flex items-center space-x-3 rtl:space-x-reverse">
             <span className="self-center text-3xl font-semibold whitespace-nowrap dark:text-white">
-              WhatByte
+              WhatBytes
             </span>
           </div>
 
